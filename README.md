@@ -3,7 +3,7 @@ libyuv-android
 
 Build Google libyuv with NDK for Android
 # Version
-r1580
+r1709
 
 # Usage
 * Step1 切换到mk文件所在目录
